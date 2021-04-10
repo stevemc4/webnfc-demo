@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/shiorilabs/preflight#readme",
   "dependencies": {
+    "@chakra-ui/icons": "^1.0.9",
     "@chakra-ui/react": "^1.5.0",
     "@emotion/react": "^11.1.5",
     "@emotion/styled": "^11.3.0",
